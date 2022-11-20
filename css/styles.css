@@ -1,0 +1,27 @@
+:root {
+  /* Colors */
+  --gold: #d5966c;
+  --white: #fff;
+  --dark-grey: #444;
+  --almost-black: #151515;
+
+  /* Font sizes */
+  --heading-xl: 6rem;
+  --heading-l: 4.375rem;
+  --heading-m: 3.75rem;
+  --heading-s: 2.25rem;
+
+  --text-m: 1.375rem;
+  --text-s: 1.125rem;
+}
+
+body {
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Big Shoulders Display', cursive;
+}
